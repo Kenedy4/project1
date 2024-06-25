@@ -1,7 +1,7 @@
 #main {
   /* font-size: large; */
   font-family: Arial, Helvetica, sans-serif;
-  color: rgb(12, 41, 31);
+  color: rgb(22, 71, 55);
   padding-left: 15px;
   padding-right: 15px;
   display: flex;
@@ -11,7 +11,7 @@
 }
 .pannav {
   /* padding: 20px; */
-  background-color: rgb(17, 60, 75);
+  background-color: rgb(56, 112, 133);
   display: flex;
 }
 .pannav ul {
